@@ -1,0 +1,61 @@
+complete_code;cluster;reef;site_number;site;exposure;zone;skeleton_number;morphology;class;2022_id;2023_id
+CBHE_BA2D_P1;Capricorn Bunker;Heron;1;Back2;Back;Deep;1;Corymbose, Digitate Acropora;Acor;10;11
+CBHE_BA2D_P3;Capricorn Bunker;Heron;1;Back2;Back;Deep;2;Tabular Acropora;Atab;8;9
+CBHE_BA2D_P4;Capricorn Bunker;Heron;1;Back2;Back;Deep;3;Corymbose, Digitate Acropora;Acor;48;63
+CBHE_BA2D_P4;Capricorn Bunker;Heron;1;Back2;Back;Deep;4;Corymbose, Digitate Acropora;Acor;37;52
+CBHE_BA2D_P4;Capricorn Bunker;Heron;1;Back2;Back;Deep;5;Branching non-Acropora;Shys;38;51
+CBHE_BA2D_P4;Capricorn Bunker;Heron;1;Back2;Back;Deep;6;Tabular Acropora;Atab;54;70
+CBHE_BA2S_P1;Capricorn Bunker;Heron;2;Back2;Back;Shallow;7;Corymbose, Digitate Acropora;Acor;68;105
+CBHE_BA2S_P1;Capricorn Bunker;Heron;2;Back2;Back;Shallow;8;Corymbose, Digitate Acropora;Acor;19;31
+CBHE_BA2S_P3;Capricorn Bunker;Heron;2;Back2;Back;Shallow;9;Tabular Acropora;Atab;41;96
+CBHE_BA2S_P3;Capricorn Bunker;Heron;2;Back2;Back;Shallow;10;Tabular Acropora;Atab;17;51
+CBHE_BA2S_P4;Capricorn Bunker;Heron;2;Back2;Back;Shallow;11;Corymbose, Digitate Acropora;Acor;58;104
+CBHE_BA2S_P4;Capricorn Bunker;Heron;2;Back2;Back;Shallow;12;Corymbose, Digitate Acropora;Acor;6;10
+CBHE_FR1D_P1;Capricorn Bunker;Heron;3;Front1;Front;Deep;13;Branching non-Acropora;Pdam;64;73
+CBHE_FR1D_P2;Capricorn Bunker;Heron;3;Front1;Front;Deep;14;Small massive/sub-massive;Plat;93;110
+CBHE_FR1D_P4;Capricorn Bunker;Heron;3;Front1;Front;Deep;15;Small massive/sub-massive;Plat;5;7
+CBHE_FR1D_P4;Capricorn Bunker;Heron;3;Front1;Front;Deep;16;Tabular Acropora;Atab;40;48
+CBHE_FR1D_P4;Capricorn Bunker;Heron;3;Front1;Front;Deep;17;Corymbose, Digitate Acropora;Acor;51;63
+CBHE_FR1D_P4;Capricorn Bunker;Heron;3;Front1;Front;Deep;18;Branching non-Acropora;Pdam;6;8
+CBHE_FR1S_P1;Capricorn Bunker;Heron;4;Front1;Front;Shallow;19;Branching non-Acropora;Spis;95;155
+CBHE_FR1S_P2;Capricorn Bunker;Heron;4;Front1;Front;Shallow;20;Branching non-Acropora;Pdam;3;16
+CBHE_FR1S_P2;Capricorn Bunker;Heron;4;Front1;Front;Shallow;21;Branching non-Acropora;Spis;22;45
+CBHE_FR1S_P4;Capricorn Bunker;Heron;4;Front1;Front;Shallow;22;Branching non-Acropora;Pdam;2;9
+CBHE_FR1S_P4;Capricorn Bunker;Heron;4;Front1;Front;Shallow;23;Corymbose, Digitate Acropora;Acor;37;105
+CBHE_FR1S_P4;Capricorn Bunker;Heron;4;Front1;Front;Shallow;24;Tabular Acropora;Atab;16;58
+CBHE_FR2D_P1;Capricorn Bunker;Heron;5;Front2;Front;Deep;25;Corymbose, Digitate Acropora;Adgt;10;58
+CBHE_FR2D_P1;Capricorn Bunker;Heron;5;Front2;Front;Deep;26;Corymbose, Digitate Acropora;Acor;55;78
+CBHE_FR2D_P3;Capricorn Bunker;Heron;5;Front2;Front;Deep;27;Tabular Acropora;Asol;65;83
+CBHE_FR2D_P3;Capricorn Bunker;Heron;5;Front2;Front;Deep;28;Corymbose, Digitate Acropora;Acor;79;104
+CBHE_FR2D_P4;Capricorn Bunker;Heron;5;Front2;Front;Deep;29;Corymbose, Digitate Acropora;Acor;32;44
+CBHE_FR2D_P4;Capricorn Bunker;Heron;5;Front2;Front;Deep;30;Corymbose, Digitate Acropora;Acor;42;61
+CBHE_FR2S_P2;Capricorn Bunker;Heron;6;Front2;Front;Shallow;31;Corymbose, Digitate Acropora;Aten;88;216
+CBHE_FR2S_P3;Capricorn Bunker;Heron;6;Front2;Front;Shallow;32;Corymbose, Digitate Acropora;Acor;19;74
+CBHE_FR2S_P3;Capricorn Bunker;Heron;6;Front2;Front;Shallow;33;Tabular Acropora;Atab;46;166
+CBHE_FR2S_P4;Capricorn Bunker;Heron;6;Front2;Front;Shallow;34;Tabular Acropora;Atab;51;91
+CBHE_FR2S_P4;Capricorn Bunker;Heron;6;Front2;Front;Shallow;35;Branching non-Acropora;Pdam;2;14
+CBHE_FR2S_P4;Capricorn Bunker;Heron;6;Front2;Front;Shallow;36;Branching non-Acropora;Pdam;13;27
+CBLM_BA2S_P1;Capricorn Bunker;Lady Musgrave;7;Back2;Back;Shallow;37;Corymbose, Digitate Acropora;Adgt;14;15
+CBLM_BA2S_P1;Capricorn Bunker;Lady Musgrave;7;Back2;Back;Shallow;38;Tabular Acropora;Ahya;25;28
+CBLM_BA2S_P1;Capricorn Bunker;Lady Musgrave;7;Back2;Back;Shallow;39;Corymbose, Digitate Acropora;Acor;52;61
+CBLM_BA2S_P1;Capricorn Bunker;Lady Musgrave;7;Back2;Back;Shallow;40;Corymbose, Digitate Acropora;Ahum;63;80
+CBLM_BA2S_P1;Capricorn Bunker;Lady Musgrave;7;Back2;Back;Shallow;41;Corymbose, Digitate Acropora;Acor;94;122
+CBLM_BA2S_P4;Capricorn Bunker;Lady Musgrave;7;Back2;Back;Shallow;42;Tabular Acropora;Atab;3;8
+CBLM_FL1S_P2;Capricorn Bunker;Lady Musgrave;8;Flank1;Flank;Shallow;43;Corymbose, Digitate Acropora;Acor;34;36
+CBLM_FL1S_P2;Capricorn Bunker;Lady Musgrave;8;Flank1;Flank;Shallow;44;Corymbose, Digitate Acropora;Acor;59;66
+CBLM_FL1S_P2;Capricorn Bunker;Lady Musgrave;8;Flank1;Flank;Shallow;45;Corymbose, Digitate Acropora;Acor;40;47
+CBLM_FL1S_P4;Capricorn Bunker;Lady Musgrave;8;Flank1;Flank;Shallow;46;Corymbose, Digitate Acropora;Acor;26;30
+CBLM_FL1S_P4;Capricorn Bunker;Lady Musgrave;8;Flank1;Flank;Shallow;47;Corymbose, Digitate Acropora;Acor;32;36
+CBLM_FL1S_P4;Capricorn Bunker;Lady Musgrave;8;Flank1;Flank;Shallow;48;Corymbose, Digitate Acropora;Acor;34;39
+CBLM_FL2S_P1;Capricorn Bunker;Lady Musgrave;9;Flank2;Flank;Shallow;49;Corymbose, Digitate Acropora;Aabr;246;276
+CBLM_FL2S_P2;Capricorn Bunker;Lady Musgrave;9;Flank2;Flank;Shallow;50;Tabular Acropora;Acyt;181;201
+CBLM_FL2S_P2;Capricorn Bunker;Lady Musgrave;9;Flank2;Flank;Shallow;51;Tabular Acropora;Atab;192;212
+CBLM_FL2S_P3;Capricorn Bunker;Lady Musgrave;9;Flank2;Flank;Shallow;52;Corymbose, Digitate Acropora;Adgt;62;106
+CBLM_FL2S_P4;Capricorn Bunker;Lady Musgrave;9;Flank2;Flank;Shallow;53;Tabular Acropora;Atab;1;9
+CBLM_FL2S_P4;Capricorn Bunker;Lady Musgrave;9;Flank2;Flank;Shallow;54;Tabular Acropora;Atab;25;52
+CBLM_LA1S_P1;Capricorn Bunker;Lady Musgrave;10;Lagoon1;Lagoon;Shallow;55;Branching non-Acropora;Shys;108;117
+CBLM_LA1S_P2;Capricorn Bunker;Lady Musgrave;10;Lagoon1;Lagoon;Shallow;56;Small massive/sub-massive;Gedw;5;10
+CBLM_LA1S_P2;Capricorn Bunker;Lady Musgrave;10;Lagoon1;Lagoon;Shallow;57;Corymbose, Digitate Acropora;Acor;3;5
+CBLM_LA1S_P3;Capricorn Bunker;Lady Musgrave;10;Lagoon1;Lagoon;Shallow;58;Corymbose, Digitate Acropora;Acor;10;10
+CBLM_LA1S_P3;Capricorn Bunker;Lady Musgrave;10;Lagoon1;Lagoon;Shallow;59;Corymbose, Digitate Acropora;Acor;16;20
+CBLM_LA1S_P3;Capricorn Bunker;Lady Musgrave;10;Lagoon1;Lagoon;Shallow;60;Corymbose, Digitate Acropora;Acor;25;36
