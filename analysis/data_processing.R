@@ -40,7 +40,6 @@ for (i in 1:length(data$`DS (m2)`)) {
 
 
 ### Calculate percentage change for volume and surface variables
-#Volume
 data$PCV <- abs(data$`DV (m3)`)/data$`V22 (m3)`*100
 
 data <- data %>% relocate(PCV, .after = `DV (m3)`)
