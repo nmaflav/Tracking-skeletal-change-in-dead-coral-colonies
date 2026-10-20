@@ -34,13 +34,16 @@ between May 2022 and May 2023.
 │   ├── 02_data_clean_exploration.R
 │   └── 03_data_analysis.R
 ├── data/
-│   ├── metadata.csv               # colony IDs, morphotaxon, survey info, 
-│   ├── data.csv                   # change outputs per skeleton
+│   ├── metadata.csv               # colony IDs, morphotaxon, survey info
+│   ├── erosion_deposition.csv     # change outputs per skeleton
 │   └── precision.csv              # outputs from repeated reconstructions
 ├── outputs/
-│   ├── 3D compare heatmaps               
-│   ├── diagrams                  
-│   └── plots
+│   ├── 3D_compare_heatmaps/       # Geomagic 3D compare outputs
+│   ├── diagrams/
+│   └── plots/
+├── bioerosion-analysis.Rproj
+├── .gitignore
+├── LICENSE
 └── README.md
 ```
 
