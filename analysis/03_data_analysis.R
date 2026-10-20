@@ -1,10 +1,10 @@
 # 3) Data analysis ----
 ## 3.1) data ----
-data <- read_excel("C:/Users/data.csv")
+library(readr)
+data <- read_csv("C:/Users/data.csv")
 View(data)
 
 ## packages ----
-library(readxl)
 library(dplyr)
 library(tidyr)
 library(ggplot2)

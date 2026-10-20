@@ -1,10 +1,10 @@
 # 2) Data cleaning and exploration ----
 ## 2.1) data ----
-data <- read_excel("C:/Users/data.csv")
+library(readr)
+data <- read_csv("C:/Users/data.csv")
 View(data)
 
 ## packages ----
-library(readxl)
 library(dplyr)
 library(tidyr)
 library(ggplot2)
@@ -23,12 +23,12 @@ data <- data %>%
     depth      = factor(zone)
   )
 
-### 2.2.2) sub-massive: not enough observations ----
+### 2.2.2) Delete sub-massive: not enough observations ----
 data <- subset(data, 
                !(morphology %in% c("Small massive/sub-massive")))
 
 ### 2.2.3) cleaning ----
-data <- data[-c(48 ,55, 56), ] # models with poor metashape reconstruction
+data <- data[-c(48 ,55, 56), ] # models with poor Metashape reconstruction
 
 ## 2.3) Exploration ----
 ### 2.3.1) 3D deviations (avet) by taxa ----

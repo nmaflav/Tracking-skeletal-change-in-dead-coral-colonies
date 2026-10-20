@@ -1,21 +1,20 @@
 # 1) Precision Assessment ----
 ## 1.1) Load data ----
-library(readxl)
-precision <- read_excel("C:/Users/precision.csv")
+library(readr)
+precision <- read_csv("C:/Users/precision.csv")
 View(precision)
 
 ## packages ----
-library(readxl)
 library(dplyr)
 library(tidyr)
 library(ggplot2)
+library(ggtext)
 library(lme4)
 library(car)
 library(FSA)
+library(showtext)
 
 ## 1.2) Summary Statistics -----
-library(dplyr)
-
 summary_stats <- precision %>%
   mutate(
     sa_cm2  = sa_plane * 10000,     
@@ -39,11 +38,6 @@ summary_stats <- precision %>%
 View(summary_stats)
 
 ## 1.3) Graphs ----
-library(ggplot2)
-library(ggtext)
-library(dplyr)
-library(showtext)
-
 font_add_google("Lora", "lora")
 showtext_auto()
 
