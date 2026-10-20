@@ -8,7 +8,7 @@ application"** (under review).
 
 The breakdown of coral structures by bioeroding organisms is a key reef
 process. This repository supports a workflow that quantifies structural change
-from surficial bioerosion and overgrowth in coral skeletons using 3D
+from surface bioerosion and overgrowth in coral skeletons using 3D
 reconstructions from large-area photogrammetry.
 
 The workflow:
@@ -34,8 +34,13 @@ between May 2022 and May 2023.
 │   ├── 02_data_clean_exploration.R
 │   └── 03_data_analysis.R
 ├── data/
+<<<<<<< HEAD
 │   ├── metadata.csv               # colony IDs, morphotaxon, survey info
 │   ├── erosion_deposition.csv     # change outputs per skeleton
+=======
+│   ├── metadata.csv               # colony IDs, morphotaxon, survey info 
+│   ├── data.csv                   # skeletal change outputs per colony
+>>>>>>> 7ba931235e93fb4e36546c72581c501e30c463de
 │   └── precision.csv              # outputs from repeated reconstructions
 ├── outputs/
 │   ├── 3D_compare_heatmaps/       # Geomagic 3D compare outputs
@@ -50,17 +55,17 @@ between May 2022 and May 2023.
 ## Data availability
 
 The files in `data/` are the erosion and deposition outputs, colony metadata,
-and precision-assessment outputs. The raw photogrammetry imagery and the 3D
+and precision assessment outputs. The raw photogrammetry imagery and the 3D
 models of the 60 skeletons are held in an institutional repository (name
 withheld during peer review) and are available on reasonable request.
 
 ## Requirements
 
-- R (version 4.4.2) and the packages listed in `scripts/` 
+- R (version 4.4.2) and the packages listed in `analysis/` 
 - Geomagic was used for model comparison; its outputs are provided in `outputs/3D compare heatmaps`.
 
 ## How to reproduce the analysis
 
 1. Clone this repository and open the `.Rproj` file in RStudio
 2. Install the required packages
-3. Run the scripts in `scripts/` in numerical order
+3. Run the scripts in `analysis/` in numerical order
