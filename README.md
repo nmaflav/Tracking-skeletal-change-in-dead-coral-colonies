@@ -8,7 +8,7 @@ application"** (under review).
 
 The breakdown of coral structures by bioeroding organisms is a key reef
 process. This repository supports a workflow that quantifies structural change
-from surficial bioerosion and overgrowth in coral skeletons using 3D
+from surface bioerosion and overgrowth in coral skeletons using 3D
 reconstructions from large-area photogrammetry.
 
 The workflow:
